@@ -8,11 +8,11 @@ try2.py -> function of one argument, two return values (page: 12)\
 try3.py -> function of two arguments, one return value (page: 14)\
 try4.py -> function of two arguments, two return values (page: 15)\
 try5.py -> inefficient usage of memory in code parallelization (page: 17)\
-try6.py -> efficient usage of shared memory in code parallelization (page: 19)\
+try6.py -> efficient usage of shared memory in code parallelization (page: 19)
 
 ### Reading from the files:
 root_lists.ipynb -> reading .root file and saving the information in lists (page: 24)\
-root_zeropadded.ipynb -> reading .root file and saving the information in numpy arrays (page: 25)\
+root_zeropadded.ipynb -> reading .root file and saving the information in numpy arrays (page: 25)
 
 ### Explored modeling methods/tools:
 ms.sh -> shell script for running ms.py on the cluster (page: 40)\
