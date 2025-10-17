@@ -1,5 +1,5 @@
 **This directory contains scripts explaining different techniques and methods that were tested during my research.**\
-**All of the files here are present directly in the _Report.pdf_ from _docs_ directory.**
+**All of the files here are present directly in Report.pdf from _docs_ directory.**
 
 ### Code parallelization:
 try.sh -> shell script for running on the cluster (page: 10)\
