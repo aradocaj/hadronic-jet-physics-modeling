@@ -21,7 +21,7 @@ quantiles1.ipynb -> Quantile Transformation (page: 44)\
 quantiles2.ipynb -> Quantile Transformation (page: 46)\
 data_inspect.py -> reads the data and creates a histogram to use in quantiles3.ipynb (page: 50)\
 quantiles3.ipynb -> Quantile Transformation (page: 53)\
-boxcox.ipynb -> Box-Cox transformation (page: 61)\
+boxcox.ipynb -> Box-Cox Transformation (page: 61)\
 kde.ipynb -> Kernel Density Estimation (page: 71)
 
 
